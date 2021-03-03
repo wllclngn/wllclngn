@@ -1,4 +1,4 @@
-### <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/Earth.gif' width="20" height="20" />&nbsp;<img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/acid-house-smiley-SMALL.png' width="20" height="20" />
+### <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/Earth.gif' width="20" height="20" />&nbsp;<img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/acid-house-smiley-SMALL.png' width="25" height="25" />
 
 <!--
 **wllclngn/wllclngn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
