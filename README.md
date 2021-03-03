@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/Earth.gif' />&nbsp;<img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/acid-house-smiley-small.png' style="width:50px;height:50px;"/>
+<img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/Earth.gif' />&nbsp;<img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/acid-house-smiley-SMALL.png' style="width:50px;height:50px;"/>
