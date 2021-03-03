@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/Earth.gif' width="40" height="40" />&nbsp;<img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/acid-house-smiley-SMALL.png' width="30" height="30" />
 
 <!--
 **wllclngn/wllclngn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/Earth.gif' style="width:40px;height:40px;" />&nbsp;<img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/acid-house-smiley-SMALL.png' style="width:50px;height:50px;" />
