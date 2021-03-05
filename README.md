@@ -1,7 +1,3 @@
-<!--
-**wllclngn/wllclngn** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
-
 ### <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/ah-smiley-SMALL.png' width="30" height="30" /> <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/matrix-rain.gif' width="30" height="30" /> <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/Earth.gif' width="30" height="30" /> <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/golang-gopher-small.png' height="30" /> <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/python-small.png' width="30" height="30" /> <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/vim-logo.png' width="30" height="30" /> <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/linux-tux-small.png' /><br /> <br />“The future is certain; it is only the past that is unpredictable.”<br /><br /><img src='floppy-disk.gif'><br /><br /><a href="https://www.linkedin.com/in/will-clingan-3b1b95111/">LinkedIn profile</a>
 
 <!--
