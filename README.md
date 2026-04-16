@@ -1,5 +1,21 @@
-### <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/ah-smiley-SMALL.png' width="30" height="30" /> <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/matrix-rain.gif' width="30" height="30" /> <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/Earth.gif' width="30" height="30" /> <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/golang-gopher-small.png' height="30" /> <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/python-small.png' width="30" height="30" /> <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/C++_Logo.png' width="26" height="30" /> <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/vim-logo.png' width="30" height="30" /> <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/linux-tux-small.png' /> <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/USFlag-small.png' /> <!-- <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/UKRAINEFlag-small.png' /> --> <br /><br />“A person often meets [their] destiny on the road [they] took to avoid it.”<br /><br />“The ultimate, hidden truth of the world is that it is something<br />&nbsp;&nbsp;that we make, and could just as easily make differently.”<br /><br /><img src='typing.gif'>
+<p>
+  <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/ah-smiley-SMALL.png' width="30" height="30" />
+  <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/matrix-rain.gif' width="30" height="30" />
+  <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/Earth.gif' width="30" height="30" />
+  <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/golang-gopher-small.png' height="30" />
+  <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/python-small.png' width="30" height="30" />
+  <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/C++_Logo.png' width="26" height="30" />
+  <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/vim-logo.png' width="30" height="30" />
+  <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/linux-tux-small.png' />
+  <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/USFlag-small.png' />
+  <!-- <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/UKRAINEFlag-small.png' /> -->
+</p>
 
-<!--
-“The future is certain; it is only the past that is unpredictable.”
--->
+> "A person often meets [their] destiny on the road [they] took to avoid it."
+
+> "The ultimate, hidden truth of the world is something
+> &nbsp;&nbsp;that we make, and could just as easily make differently."
+
+<p>
+  <img src='https://raw.githubusercontent.com/wllclngn/wllclngn/main/typing.gif' />
+</p>
